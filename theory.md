@@ -78,6 +78,8 @@ Docker is a platform for developing, shipping, and running applications in isola
 - Clean up unused images, containers, and volumes to free up resources (`docker system prune`).
 
 These notes cover fundamental Docker concepts, commands, and best practices, and should help you demonstrate a solid understanding of Docker in interviews.
- ###Resouce Link 
-   https://www.youtube.com/watch?v=OhnTMWmfTBE
-   https://docs.docker.com/
+ 
+ ### Resouce Link 
+ 
+   - https://www.youtube.com/watch?v=OhnTMWmfTBE
+   - https://docs.docker.com/
